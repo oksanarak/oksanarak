@@ -28,3 +28,5 @@
 
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://web.telegram.org/z/)
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/oksana-rak-11941523b/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oksanarak&show_icons=true&theme=radical)
