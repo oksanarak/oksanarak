@@ -19,10 +19,10 @@
 
 ### Documentation
 
-- [Checklists]()
-- [Test-Cases]()
-- [Bug-Reports]()
-- [HTML+CSS]()
+- [Checklists](https://github.com/oksanarak/Checklists)
+- [Test-Cases](https://github.com/oksanarak/Test-Cases)
+- [Bug-Reports](https://github.com/oksanarak/Bug-Reports)
+- [HTML+CSS](https://github.com/oksanarak/HTML-CSS)
 
 ### Contacts
 
