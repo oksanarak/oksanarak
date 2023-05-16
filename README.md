@@ -3,7 +3,7 @@
 ## I am a QA Engineer Manual
 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1yoQk_udN5Ao4_huuhGyICCDPzk8rWBuK/view?usp=sharing) 
+[Link to my CV](https://drive.google.com/file/d/1WNDmn4TSL8o9x_nTY9Ip3mPiBJmX6FX0/view?usp=sharing) 
 
 ### Tools
 
